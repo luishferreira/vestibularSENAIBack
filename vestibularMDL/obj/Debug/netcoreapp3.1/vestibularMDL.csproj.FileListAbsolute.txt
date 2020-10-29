@@ -1,0 +1,9 @@
+C:\projetos\vestibular\vestibularMDL\obj\Debug\netcoreapp3.1\vestibularMDL.AssemblyInfoInputs.cache
+C:\projetos\vestibular\vestibularMDL\obj\Debug\netcoreapp3.1\vestibularMDL.AssemblyInfo.cs
+C:\projetos\vestibular\vestibularMDL\obj\Debug\netcoreapp3.1\vestibularMDL.csproj.CoreCompileInputs.cache
+C:\projetos\vestibular\vestibularMDL\bin\Debug\netcoreapp3.1\vestibularMDL.deps.json
+C:\projetos\vestibular\vestibularMDL\bin\Debug\netcoreapp3.1\vestibularMDL.dll
+C:\projetos\vestibular\vestibularMDL\bin\Debug\netcoreapp3.1\vestibularMDL.pdb
+C:\projetos\vestibular\vestibularMDL\obj\Debug\netcoreapp3.1\vestibularMDL.dll
+C:\projetos\vestibular\vestibularMDL\obj\Debug\netcoreapp3.1\vestibularMDL.pdb
+C:\projetos\vestibular\vestibularMDL\obj\Debug\netcoreapp3.1\vestibularMDL.csprojAssemblyReference.cache

@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "vestibularAPI", "vestibular\vestibularAPI.csproj", "{CD5663FD-6F88-4D7F-844A-E589CF1B01F0}"
+	ProjectSection(ProjectDependencies) = postProject
+		{241F3074-8849-44B1-B351-E91951DEA675} = {241F3074-8849-44B1-B351-E91951DEA675}
+		{1DC1E684-961B-493E-A668-EC357CE862E5} = {1DC1E684-961B-493E-A668-EC357CE862E5}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vestibularCNG", "vestibularCNG\vestibularCNG.csproj", "{241F3074-8849-44B1-B351-E91951DEA675}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1DC1E684-961B-493E-A668-EC357CE862E5} = {1DC1E684-961B-493E-A668-EC357CE862E5}
+		{E09BEEB7-C5E9-4652-8607-10C8A038CD27} = {E09BEEB7-C5E9-4652-8607-10C8A038CD27}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vestibularCDD", "vestibularCDD\vestibularCDD.csproj", "{E09BEEB7-C5E9-4652-8607-10C8A038CD27}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1DC1E684-961B-493E-A668-EC357CE862E5} = {1DC1E684-961B-493E-A668-EC357CE862E5}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vestibularMDL", "vestibularMDL\vestibularMDL.csproj", "{1DC1E684-961B-493E-A668-EC357CE862E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD5663FD-6F88-4D7F-844A-E589CF1B01F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD5663FD-6F88-4D7F-844A-E589CF1B01F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD5663FD-6F88-4D7F-844A-E589CF1B01F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD5663FD-6F88-4D7F-844A-E589CF1B01F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{241F3074-8849-44B1-B351-E91951DEA675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{241F3074-8849-44B1-B351-E91951DEA675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{241F3074-8849-44B1-B351-E91951DEA675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{241F3074-8849-44B1-B351-E91951DEA675}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E09BEEB7-C5E9-4652-8607-10C8A038CD27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E09BEEB7-C5E9-4652-8607-10C8A038CD27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E09BEEB7-C5E9-4652-8607-10C8A038CD27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E09BEEB7-C5E9-4652-8607-10C8A038CD27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DC1E684-961B-493E-A668-EC357CE862E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DC1E684-961B-493E-A668-EC357CE862E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DC1E684-961B-493E-A668-EC357CE862E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DC1E684-961B-493E-A668-EC357CE862E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5478D24F-BF65-4329-911F-08890D6C6D91}
+	EndGlobalSection
+EndGlobal
